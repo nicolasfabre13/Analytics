@@ -32,4 +32,4 @@ My Résumé
 
 **Module 7: Use GitHub to Create Your Assignment Portfolio**
 
-[A7 List Your Data Analytics Skills]
+[A7 List Your Data Analytics Skills](https://colab.research.google.com/drive/1NPmYbyaGOOhE9UeIy7LHRQfXasYrew66#scrollTo=OHyAYOWNp68G)
