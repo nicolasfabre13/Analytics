@@ -28,7 +28,7 @@ My Résumé
 
 **Module 6: Clustering and Segmentation**
 
-[A6 Segmentation (retail transactions and behavioral segmentation)(https://colab.research.google.com/drive/1srprMcHUwUZRa9ifsj__jIR6Uss9kK0D#scrollTo=5EpCCf8yaNid&uniqifier=1)
+[A6 Segmentation (retail transactions and behavioral segmentation](https://colab.research.google.com/drive/1srprMcHUwUZRa9ifsj__jIR6Uss9kK0D#scrollTo=5EpCCf8yaNid&uniqifier=1)
 
 **Module 7: Use GitHub to Create Your Assignment Portfolio**
 
