@@ -7,7 +7,7 @@ My Résumé
 
 **Module 1: Using Colab**
 
-[A1 Markdown CV]
+[A1 Markdown CV](https://colab.research.google.com/drive/1w-KUJNcyftHQzzg5a1soAs2FzJruOfOL)
 
 
 **Module 2: Fundamentals of Programming for Data Analysis**
@@ -20,11 +20,11 @@ My Résumé
 
 **Module 4: Stats review**
 
-[A4 Hypothesis testing - FB ads and Starbucks promos]
+[A4 Hypothesis testing - FB ads and Starbucks promos](https://colab.research.google.com/drive/1JDTcT7Qh60U_i4Vu-FjEE-1zDsZOfut7)
 
 **Module 5: Regression**
 
-[A5 Regression Analysis]
+[A5 Regression Analysis](https://colab.research.google.com/drive/1unEy9U9tYYNGaNrLgsaAs83PGXO4qioz)
 
 **Module 6: Clustering and Segmentation**
 
