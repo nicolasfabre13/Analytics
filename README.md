@@ -12,7 +12,7 @@ My Résumé
 
 **Module 2: Fundamentals of Programming for Data Analysis**
 
-[A2 Programming Fundamentals]
+[A2 Programming Fundamentals](https://colab.research.google.com/drive/1oYtlyWc6ekChlelmJUy6nFUGS4nmY1Gs)
 
 **Module 3: Working with Data**
 
