@@ -1,6 +1,6 @@
 # Analytics Portfolio
 
-This is my portfolio of some assignments I have completed in Data Analytics at Southern Utah University while completing my Master Degree in Business Analytics
+This is my portfolio of some assignments I have completed in Data Analytics at Southern Utah University while completing my Master Degree in Business Analytics.
 
 My Résumé
 
